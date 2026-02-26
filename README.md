@@ -7,7 +7,7 @@ lifecycle. Highly adept in leading engineering teams to achieve
 optimal and functional implementations for increasing business
 efficiency while delivering world-class solutions to clients.
 
-🌱 I used to work with these tools:
+🌱 Some tools I used to work with:
 <p>
 <p>
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
