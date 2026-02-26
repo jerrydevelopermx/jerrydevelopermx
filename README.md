@@ -8,12 +8,12 @@ optimal and functional implementations for increasing business
 efficiency while delivering world-class solutions to clients.
 
 🌱 I used to work with these tools:
-<p<
+<p>
    ![React](https://www.flaticon.es/icono-gratis/java_152760)
    
 </p>
 <p>
- <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+ <img alt="React" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 </p>
 
  
