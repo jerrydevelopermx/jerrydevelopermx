@@ -9,7 +9,7 @@ efficiency while delivering world-class solutions to clients.
 
 🌱 I used to work with these tools:
 
-![My Project Image](https://icon-icons.com/es/icono/java-original-logo/146458)
+![](https://icon-icons.com/es/icono/java-original-logo/146458)
 
 
 
