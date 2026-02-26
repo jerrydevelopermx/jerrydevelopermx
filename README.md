@@ -1,6 +1,8 @@
-## Hi there!! 👋 I am a Software engineer with 15+ years of experience, mainly in
+## Hi there!! 👋 
+
+I am a Software engineer with 15+ years of experience, mainly in
 consulting and FinTech industries. Specialized in web technologies
-as a Full Stack developer through the whole software development
+as a full-stack developer through the whole software development
 lifecycle. Highly adept in leading engineering teams to achieve
 optimal and functional implementations for increasing business
 efficiency while delivering world-class solutions to clients.
