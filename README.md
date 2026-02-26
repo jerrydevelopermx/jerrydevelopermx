@@ -29,6 +29,8 @@ efficiency while delivering world-class solutions to clients.
   <img alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="40" height="40" />
   <img alt="gcp" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" />
   <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
+   <img alt="docker" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" width="40" height="40" />
+  
 
    </p>
 
