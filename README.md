@@ -1,4 +1,4 @@
-## Hi there!! I'm Jerry 👋 
+## Hey! I'm Jerry 👋 
 
 Software engineer with 15+ years of experience, mainly in
 consulting and FinTech industries. Specialized in web technologies
