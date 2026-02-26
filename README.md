@@ -52,10 +52,6 @@ efficiency while delivering world-class solutions to clients.
   <img alt="digital ocean" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="40" height="40" />
    
   <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
-   
-
-
-
    <img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
    <img alt="git hub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
    <img alt="graphql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" />
@@ -77,6 +73,8 @@ efficiency while delivering world-class solutions to clients.
 
    <img alt="windows11" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="40" height="40" />
    <img alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40" />
+   <img alt="digital ocean" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" />
+
 
 </p>
   
