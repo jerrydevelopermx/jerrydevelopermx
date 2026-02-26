@@ -30,6 +30,9 @@ efficiency while delivering world-class solutions to clients.
   <img alt="gcp" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" />
   <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
    <img alt="docker" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" width="40" height="40" />
+<img alt="apollo graphql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apollographql/apollographql-original.svg" width="40" height="40" />
+   
+
   
 
    </p>
