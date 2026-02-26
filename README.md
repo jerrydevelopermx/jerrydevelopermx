@@ -9,7 +9,7 @@ efficiency while delivering world-class solutions to clients.
 
 🌱 I used to work with these tools:
 
-![JAVA](https://icon-icons.com/icon/java-original-wordmark-logo/146459)
+![JAVA](https://www.flaticon.es/icono-gratis/java_152760)
 
 
 
