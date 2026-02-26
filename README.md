@@ -9,8 +9,111 @@ efficiency while delivering world-class solutions to clients.
 
 🌱 I used to work with these tools:
 <p>
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50" />
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" />
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50" />
+  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50" />
+  
+  
+
+
+
+
+      
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg',
+        alt: 'angular-js',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg',
+        alt: 'vue',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg',
+        alt: 'bootstrap',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg',
+        alt: 'css3',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg',
+        alt: 'gulp',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg',
+        alt: 'java',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg',
+        alt: 'javascript',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg',
+        alt: 'typescript',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg',
+        alt: '.NET',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg',
+        alt: 'mongodb',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg',
+        alt: 'mysql',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg',
+        alt: 'redis',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg',
+        alt: 'nodejs',
+    },
+    {
+        src: 'https://www.vectorlogo.zone/logos/springio/springio-icon.svg',
+        alt: 'spring',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg',
+        alt: 'python',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg',
+        alt: 'nginx',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg',
+        alt: 'cucumber',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg',
+        alt: 'heroku',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg',
+        alt: 'travis',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png',
+        alt: 'aws',
+    },
+    {
+        src: 'https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg',
+        alt: 'gcp',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg',
+        alt: 'Docker',
+    },
+    {
+        src: 'https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg',
+        alt: 'Kubernetes',
+    },
+    {
+        src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg',
+        alt: 'Go',
+    },
 
   
   
