@@ -9,7 +9,7 @@ efficiency while delivering world-class solutions to clients.
 
 🌱 I used to work with these tools:
 <p>
-   ![React](https://www.flaticon.es/icono-gratis/java_152760)
+   ![React](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
    
 </p>
 <p>
