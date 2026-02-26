@@ -59,6 +59,8 @@ efficiency while delivering world-class solutions to clients.
    <img alt="webpack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="40" height="40" />
    <img alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40" />
    <img alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="40" height="40" />
+   <img alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+   <img alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" />
    
 </p>
   
