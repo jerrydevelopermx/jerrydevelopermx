@@ -7,7 +7,8 @@ lifecycle. Highly adept in leading engineering teams to achieve
 optimal and functional implementations for increasing business
 efficiency while delivering world-class solutions to clients.
 
-🌱 I’m currently work with these tools:
+🌱 I use to work with these tools:
+
 
 <!--
 **jerrydevelopermx/jerrydevelopermx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
